@@ -81,7 +81,7 @@ font-size: 20px;
 line-height: 24px;
 text-align: center;
 color: #131010;
-/* iOT */
+/* IT */
 position: absolute;
 width: 338px;
 height: 43px;
@@ -94,7 +94,7 @@ font-size: 20px;
 line-height: 24px;
 text-align: center;
 color: #131010;
-/* CC */
+/* CSE */
 position: absolute;
 width: 338px;
 height: 43px;
@@ -132,7 +132,7 @@ left: 131px;top: 99px;background: url(logo.jpg);
 
 ![Alt text](<Screenshot (58).png>)
 ![Alt text](<Screenshot (59).png>)
-![Alt text](<Screenshot (61).png>)
+![Alt text](<Screenshot (61).png>)S
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
